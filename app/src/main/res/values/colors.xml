@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="pink_gradient_start">#27E600FF</color>
+    <color name="pink_gradient_end">#00FFFFFF</color>
+    <color name="brown_gradient_start">#4B6D3408</color>
+    <color name="brown_gradient_end">#00FFFFFF</color>
+    <color name="yellow_gradient_start">#22CFB613</color>
+    <color name="yellow_gradient_end">#00FFFFFF</color>
+    <color name="pink_icing">#FFB0B0</color>
+    <color name="brown_icing">#9C6B4F</color>
+    <color name="yellow_icing">#FFC107</color>
+</resources>
